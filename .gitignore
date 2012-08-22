@@ -1,0 +1,26 @@
+# Eclipse settings
+*.settings/
+.project
+.metadata/
+
+# Flash Builder-generated
+.actionScriptProperties
+.flexProperties
+.flexLibProperties
+
+# Generated output
+*bin*/
+
+# FlexUnit-generated files
+*.FlexUnitSettings/
+FlexUnitApplication.*
+FlexUnitCompilerApplication.*
+FlexUnitApplicationLastRun.xml
+FlexUnitApplicationLastSelection.xml
+
+# Mac-generated
+.DS_Store
+
+# Misc
+*.sh
+
